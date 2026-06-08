@@ -1,0 +1,19 @@
+h2{
+    color:green;
+}
+.success{
+    color:purple;
+    background-color: aliceblue;
+    font-size: 20px;
+    border: 2px solid green;
+    padding: 10px;
+    margin: 10px;
+}
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border: 2px solid red;
+  padding: 10px;
+  margin-bottom: 10px;
+}
